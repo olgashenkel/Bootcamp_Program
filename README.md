@@ -1,9 +1,10 @@
 ## Bootcamp_Program
-1. [Урок 4. Алгоритм «Сортировка выбором»-28.02.2024](https://github.com/olgashenkel/Bootcamp_Program/tree/main/Task-4)
-2. [Урок 6. Пузырьковая сортировка-01.03.2024](https://github.com/olgashenkel/Bootcamp_Program/tree/main/Task-6)
-3. [Урок 7. Пишем простейший HTTP сервер-02.03.2024](https://github.com/olgashenkel/Bootcamp_Program/tree/main/Task-7)
-4. [Урок 8. Быстрая сортировка-03.03.2024](https://github.com/olgashenkel/Bootcamp_Program/tree/main/Task-8)
-5. [Урок 9. Знакомство с Flask: что такое, как работать-04.03.2024](https://github.com/olgashenkel/Bootcamp_Program/tree/main/Task-9)
+
+1. [Урок 4. Алгоритм «Сортировка выбором» - 28.02.2024](https://github.com/olgashenkel/Bootcamp_Program/tree/main/Task-4)
+2. [Урок 6. Пузырьковая сортировка - 01.03.2024](https://github.com/olgashenkel/Bootcamp_Program/tree/main/Task-6)
+3. [Урок 7. Пишем простейший HTTP сервер - 02.03.2024](https://github.com/olgashenkel/Bootcamp_Program/tree/main/Task-7)
+4. [Урок 8. Быстрая сортировка - 03.03.2024](https://github.com/olgashenkel/Bootcamp_Program/tree/main/Task-8)
+5. [Урок 9. Знакомство с Flask: что такое, как работать - 04.03.2024](https://github.com/olgashenkel/Bootcamp_Program/tree/main/Task-9)
 6. [Урок 10. Гонка между алгоритмами - 05.03.2024](https://github.com/olgashenkel/Bootcamp_Program/tree/main/Task-10)
 7. [Урок 11. Параллельное программирование на примере умножения матриц - 06.03.2024](https://github.com/olgashenkel/Bootcamp_Program/tree/main/Task-11)
 8. [Урок 12. Клиент-серверное взаимодействие - 07.03.2024](https://github.com/olgashenkel/Bootcamp_Program/tree/main/Task-12)
